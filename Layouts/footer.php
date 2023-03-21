@@ -79,7 +79,7 @@
               </div>
           
               <div class="d-flex justify-content-between py-4 my-4 border-top">
-                <p>© 2021 Company, Inc. All rights reserved.</p>
+                <p>© 2021 WEBREXO, Inc. All rights reserved.</p>
                 <ul class="list-unstyled d-flex">
                   <li class="ms-3"><a class="link-dark" href="#"><img src="./Assets/twitter.png" class="icon"></a></li>
                   <li class="ms-3"><a class="link-dark" href="#"><img src="./Assets/twitter.png" class="icon"></a></li>

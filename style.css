@@ -1,0 +1,28 @@
+body{
+    background-color: antiquewhite;
+}
+.main_logo{
+    height: 60px;
+    width: 80px;
+}
+.hero_img{
+    height: 600px;
+    width: 100%;
+}
+.sidebar{
+    margin-top: 20px;
+}
+.form{
+    margin: 30px;
+}
+.form_heading{
+    text-align: center;
+    font-weight: bold;
+}
+.icon{
+    height: 24px;
+    width: 24px;
+}
+.logo img{
+    width: 80%;
+}
